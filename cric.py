@@ -16,6 +16,7 @@ def towin(file):
                     lhs, rhs = line.split(": ")
                     print('The match was won by ' + rhs )
                     print('India lost')
+                    print('I cant believe Pak won')
                     return str.strip(rhs)
                 #f.close()
     
