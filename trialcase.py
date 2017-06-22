@@ -12,6 +12,7 @@ class CricketTestCase(unittest.TestCase):
     
     def test_winner(self):
         self.assertTrue(towin('235831.yaml') == 'Pakistan')
+        print('worked!')
   
 def main():
     unittest.main()
