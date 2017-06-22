@@ -15,6 +15,7 @@ def towin(file):
                 if line.__contains__('winner'):
                     lhs, rhs = line.split(": ")
                     print('The match was won by ' + rhs )
+                    print('India lost')
                     return str.strip(rhs)
                 #f.close()
     
