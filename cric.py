@@ -18,7 +18,8 @@ def towin(file):
                    
                     return str.strip(rhs)
                 #f.close()
-    
+
+#towin('235831.yaml')    
 
 """  
 class CricketTest(unittest.TestCase)
