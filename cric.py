@@ -20,6 +20,7 @@ def towin(file):
                 #f.close()
 
 #towin('235831.yaml')    
+#so ok then
 
 """  
 class CricketTest(unittest.TestCase)
